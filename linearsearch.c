@@ -12,6 +12,7 @@
  int main() {
   
   int array[6] = { 4,7,3,2,8,9};
+  //Added new comment
   linearsearch( array , 6, 1);
     return 0;
 
